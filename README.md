@@ -1,4 +1,3 @@
-# Devchallenges Auth0 Auth App
 <h1 align="center">Devchallenges Auth0 Auth App</h1>
 
 <div align="center">
