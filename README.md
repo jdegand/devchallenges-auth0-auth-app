@@ -19,7 +19,7 @@
 
 ![](devchallenges-auth0-auth-profile.png)
 
-I tried to translate the devchallenges design to work with auth0. I modified the custom login template code provided by Auth0.  That code used bootstrap so I used that as well.  I had some issues on getting the social logins to work but you have to make sure the connection property matches the login's name property set in the Auth0 dashboard. I found it confusing to know if the custom login page persists across all your auth0 applications or if you can make custom logins per application.  I think there is a dropdown to select the application but the site gives no feedback on selection.
+I tried to translate the devchallenges design to work with auth0. I modified the custom login template code provided by Auth0.  That code used bootstrap so I used that as well.  src/CustomLogin.html is the code that I added to Auth0 for the custom login page.  I had some issues on getting the social logins to work but you have to make sure the connection property matches the login's name property set in the Auth0 dashboard. I found it confusing to know if the custom login page persists across all your auth0 applications or if you can make custom logins per application.  I think there is a dropdown to select the application but the site gives no feedback on selection.
 
 Made it so, you see loading and then the form is fetched from auth0.  Used router and conditional rendering for the routes.  
 
