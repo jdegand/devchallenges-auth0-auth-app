@@ -1,7 +1,7 @@
 <h1 align="center">Devchallenges Auth0 Auth App</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="https://devchallenges.io/challenges/N1fvBjQfhlkctmwj1tnw" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="https://legacy.devchallenges.io/challenges/N1fvBjQfhlkctmwj1tnw" target="_blank">Devchallenges.io</a>.
 </div>
 
 ## Table of Contents
@@ -38,7 +38,7 @@ Need to look at styling for mobile and tablet versions.
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/N1fvBjQfhlkctmwj1tnw) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/N1fvBjQfhlkctmwj1tnw) was to build an application to complete the given user stories.
 
 ## Useful Resources
 
